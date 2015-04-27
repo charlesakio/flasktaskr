@@ -1,2 +1,2 @@
 #Flastaskr
-- [] Improve UI with Bootstrap
+- [ ] Improve UI with Bootstrap
